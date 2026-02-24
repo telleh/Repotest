@@ -4,7 +4,7 @@ This is my journey on Base – farming roles, playing miniapps, and staying base
 
 ## Daily Progress Log
 ## Today's Loot & Wins
--Feb 25, 2026 05:43 : USDC earnings update: Total $0.33 → claim ready.
+- Feb 25, 2026 05:43 : USDC earnings update: Total $0.33 → claim ready.
 - Arena wins: 18 → target 20 minggu ini.
 
 - Feb 25, 2026: Started repo for GitHub commits task. Looted some USDC in Based Card Battle today! Epic card grind ongoing.
