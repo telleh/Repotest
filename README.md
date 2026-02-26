@@ -3,7 +3,12 @@
 This is my journey on Base – farming roles, playing miniapps, and staying based 🟦🐊
 
 ## Daily Progress Log
-
+Today's Loot & Wins (Feb 27)
+- GOOD exploration in dungeon: +$0.27 USDC total loot.
+- Essence gained: +29
+- Scrolls: +2
+- Current total USDC earnings: ~$0.60 (claim ready soon).
+- Arena update: 18 wins → pushing for 20+ this week.
 ## Today's Loot & Wins
 
 - Feb 24, 2026: Connected GitHub to Base Guild. Watched @defi_explora tutorial – easy no terminal.
