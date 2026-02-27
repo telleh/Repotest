@@ -24,6 +24,8 @@ Today's Loot & Wins (Feb 27)
 
 - Feb 27, 2026: GOOD dungeon run! +$0.27 USDC (treasure + bonus), essence +29, scrolls +2. Total earnings stacking up ~$0.60 now. Arena wins still 18
   
+- Feb 28, 2026:GOOD Citadel run! +$0.32 USDC (treasure + bonus), essence +28, scrolls +1. Total earnings stacking ~$0.92 now. Arena wins still 18, more dungeon runs incoming.
+  
 ## What I'm Grinding Right Now
 - Based Card Battle (@caksishere miniapp): 18 arena wins, $0.33 USDC earnings, daily check-in for free Epics.
 - Base Guild: Targeting Builders & Founders (GitHub commits + maybe deploy simple contract later).
