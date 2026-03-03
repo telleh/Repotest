@@ -11,7 +11,14 @@ Today's Loot & Wins (Feb 27)
 - Arena update: 18 wins → pushing for 20+ this week.
 - Feb 28, 2026: Morning update. Still farming WL for Degen NFT (dream.degen.tips). Daily tasks done, rank climbing.  
 
-## Today's Loot & Wins
+#Citadel Loot Recap (Recent Runs)
+- 03/03/2026: GOOD – +$0.39, +33 Essence
+- 03/03/2026: NORMAL – +$0.29, +23 Essence
+- 03/03/2026: GOOD – +$0.31, +33 Essence
+- 02/03/2026: NORMAL Ruins – +$0.04, +18 Essence
+Total from recent: ~$1.03 USDC + 107 Essence
+
+#Today's Loot & Wins
 
 - Feb 24, 2026: Connected GitHub to Base Guild. Watched @defi_explora tutorial – easy no terminal.
 
